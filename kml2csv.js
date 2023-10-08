@@ -23,11 +23,15 @@ cosnt
 //console.log(json.kml.Document.Style[0])
 //Deno.exit(0);
 
-console.log(await GooglePlaceAPI.fetchPosFromName("福井県越前市千福町606-2"));
+//console.log(await GooglePlaceAPI.fetchPosFromName("福井県越前市千福町606-2"));
+//console.log(await GooglePlaceAPI.fetchPosFromName("福井県鯖江市河和田町19-1-7"));
+//console.log(await GooglePlaceAPI.fetchPosFromName("福井県鯖江市日の出町1−2"));
 //Deno.exit(0);
 
 const premap = {
   "shifu.": { lat: 35.8879893, lng: 136.1553524, zoom: 15 },
+  "PARK": { lat: 35.9515016, lng: 136.2742195, zoom: 17 },
+  "リペア/鯖江駅眼鏡": { lat: 35.9431928, lng: 136.1887162, zoom: 17 },
 };
 
 
