@@ -227,6 +227,38 @@
         <styleUrl>#icon-ci-7-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-ci-8-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-ci-8-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-ci-8">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-ci-8-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-ci-8-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Folder>
       <name>越前漆器</name>
       <Placemark>
@@ -2517,7 +2549,7 @@ MUSEUM CAFE：10:00～16:00</value>
         <name>TSUGI(SAVA!STORE)</name>
         <address>〒916-1222 福井県鯖江市河和田町19-8</address>
         <description><![CDATA[<img src="https://doc-14-00-mymaps.googleusercontent.com/untrusted/hostedimage/tjp71pbl755n1d9knaupn39qao/fm296ft34opvsfm1jp1o6hu96s/1696731300000/JZE0f6HJRobklDdF9DDVtADt9cDcsdY3/*/6AJ9UNGo7iokAfvOYcQp8hIzBkdrwab8_akux1wZlZO3BT7KOGDJ028J6QLMLC-e28QU0B7gH5rMR5NOp32r7UOX9YwKmtKFZfmtPWonqaDyGlG4voD-qDOE2IyMBwhHW8lBfZbCsJtBFnRhGPwEJOYkVMRMvS6LJ_tQhFgaL1JEOELinV4udJrTJWLcw05s-QAHmFFxTPWVKFK6piiWU13z7uEK897wbxM9gaecgkOOR5x3j7Mc?fife" height="200" width="auto" /><br><br>住所: 〒916-1222 福井県鯖江市河和田町19-8<br>参加形態: 販売, ワークショップ<br>紹介: 「創造的な産地をつくる」をビジョンに、デザイン、商品開発、販路開拓までを一貫して行なっています。事務所に併設する「SAVA!STORE」では、福井のプロダクトや自社デザインの商品を取り扱っています。<br>出展日: 6-8日<br>営業時間: 10:00-18:00<br>電話番号: 0778-65-0048<br>Web: https://tsugilab.com/<br>YouTube: ]]></description>
-        <styleUrl>#icon-ci-4</styleUrl>
+        <styleUrl>#icon-ci-8</styleUrl>
         <ExtendedData>
           <Data name="住所">
             <value>〒916-1222 福井県鯖江市河和田町19-8</value>
